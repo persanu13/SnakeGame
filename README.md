@@ -1,2 +1,2 @@
 # SnakeGame
-a simple game
+### Link to app https://persanu13.github.io/SnakeGame/
